@@ -1,0 +1,16 @@
+*{
+    background-color:antiquewhite;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+#title {
+    color: rgb(180, 83, 180);
+    font-size: 25px;
+}
+
+p{
+    font-style: italic;
+}
